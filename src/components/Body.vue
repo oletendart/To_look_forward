@@ -1,5 +1,5 @@
 <template>
-   <div>
+   <div class="centered">
     <h4>Vidéo récentes</h4>
 
     <b-card>
