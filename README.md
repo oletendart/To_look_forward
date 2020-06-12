@@ -1,24 +1,7 @@
 # to_look_forward
 
-## Project setup
-```
-npm install
-```
+### Look Forward, qu'est-ce ? 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+To Look Forward est une application hébergeant des vidéos. Elle est utilisé par les entreprises pour les personnes désireuse de découvrir comment ladite entreprise fonctionne. On peut notamment retrouver des vidéos de présentation, des vidéos de réunions, etc. 
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##### Ceci est un excercice !
